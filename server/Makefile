@@ -5,11 +5,11 @@
 ## Login   <vailla_y@epitech.net>
 ## 
 ## Started on  Thu Apr 19 11:59:27 2012 yann vaillant
-## Last update Thu Apr 19 11:59:28 2012 yann vaillant
+## Last update Sun Apr 22 23:09:19 2012 yann vaillant
 ##
 
 CC=gcc
-NAME=server
+NAME=serveur
 SRC=$(wildcard src/*.c)
 OBJ=$(SRC:.c=.o)
 CFLAGS= -W -Wall -Wextra -g -Iinclude 
